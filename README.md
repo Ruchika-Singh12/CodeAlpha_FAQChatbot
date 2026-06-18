@@ -93,4 +93,10 @@ Best Match → Display Answer + Confidence Score
 
 ---
 
+## Developer
+Ruchika Singh
+
+## Internship Organization
+CodeAlpha
+
 *Built as Task 2: Chatbot for FAQs — NLP Project*
